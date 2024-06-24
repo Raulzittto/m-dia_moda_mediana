@@ -1,5 +1,5 @@
-console.log("Insira valores para calcular sua média, moda e mediana.");
-const conjuntoNumeros = [1, 4, 10, 17, 1, 1];
+console.log("Vamos calcular a média, moda e mediana.");
+const conjuntoNumeros = [1, 3, 10, 17, 1, 1, 9, 17, 17, 17, 28];
 let repeticao = {};
 let soma = 0;
 for (i = 0; i < conjuntoNumeros.length; i++) {
